@@ -13,4 +13,6 @@ body {
   margin-left: 60px;
   margin-right: 60px;
   padding: 30px;
+  font-weight: 600;
+  text-decoration: none;
 }
