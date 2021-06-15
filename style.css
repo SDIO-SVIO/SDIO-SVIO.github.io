@@ -48,3 +48,9 @@ main {
   padding-right: 120px;
   color: white;
 }
+#large {
+  font-size: 60px;
+}
+#text-explainer {
+  font-size: 30px;
+}
