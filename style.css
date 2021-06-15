@@ -30,3 +30,9 @@ body {
 #right-area {
   margin-left: 500px;
 }
+#talk-to-our-sales {
+  border: 2px solid;
+  color: purple;
+  padding: 20px;
+  border-color: purple;
+}
