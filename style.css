@@ -28,6 +28,7 @@ body {
 #navbar #main-nav a {
   text-decoration: none;
   color: black;
+  padding-bottom: 5px;
 }
 #navbar #main-nav a:hover {
   color: #009fe6;
