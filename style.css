@@ -18,11 +18,11 @@ body {
   font-weight: 700;
   background-color: white;
 }
-#navbar a {
+#navbar #main-nav a {
   text-decoration: none;
   color: black;
 }
-#navbar a:hover {
+#navbar #main-nav a:hover {
   color: #009fe6;
   border-bottom: 2px solid;
   border-bottom-color: #009fe6;
@@ -35,5 +35,5 @@ body {
   color: purple;
   padding: 20px;
   border-color: purple;
-  border-radius: 2px;
+  border-radius: 10px;
 }
