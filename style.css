@@ -18,6 +18,7 @@ body {
   font-weight: 700;
   background-color: white;
   item-align: center;
+  overflow: hidden;
 }
 #navbar #main-nav a {
   text-decoration: none;
@@ -29,7 +30,7 @@ body {
   border-bottom-color: #009fe6;
 }
 #right-area {
-  margin-left: 594px;
+  margin-left: 550px;
 }
 #talk-to-our-sales a{
   text-decoration: none;
