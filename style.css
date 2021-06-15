@@ -4,7 +4,7 @@ a {
 body {
   margin: 0px;
   font-family: 'Ubuntu', sans-serif;
-  background-color: #120065;
+  background-image: linear-gradient(to bottom right, #3d2c8c, #120065);
 }
 #navbar ul, li {
   list-style-type: none;
