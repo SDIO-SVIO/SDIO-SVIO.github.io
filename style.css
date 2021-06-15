@@ -29,7 +29,7 @@ body {
   border-bottom-color: #009fe6;
 }
 #right-area {
-  margin-left: 500px;
+  margin-left: 450px;
 }
 #talk-to-our-sales a{
   text-decoration: none;
@@ -40,5 +40,5 @@ body {
   border-radius: 10px;
 }
 #talk-to-our-sales a:hover{
-  border: 4px solid;
+  border: 2.90px solid;
 }
