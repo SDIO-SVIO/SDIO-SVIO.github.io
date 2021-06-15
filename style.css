@@ -17,4 +17,10 @@ body {
 }
 #navbar a {
   text-decoration: none;
+  color: black;
+}
+#navbar a:hover {
+  color: #009fe6;
+  border-bottom: 2px solid;
+  border-bottom-color: #009fe6;
 }
