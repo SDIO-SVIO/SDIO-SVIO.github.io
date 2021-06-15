@@ -1,19 +1,21 @@
 body {
   margin: 0px;
   font-family: 'Ubuntu', sans-serif;
+  background-color: #f7e1f1;
 }
 #navbar ul, li {
   list-style-type: none;
   display: inline
 }
 #navbar {
-  box-shadow: 10px 10px 10px gainsboro;
+  box-shadow: 10px 10px 10px #dcdcdc30;
   border-radius: 50px;
   margin-top: 20px;
   margin-left: 60px;
   margin-right: 60px;
   padding: 30px;
   font-weight: 700;
+  background-color: white;
 }
 #navbar a {
   text-decoration: none;
