@@ -49,8 +49,8 @@ body {
 main {
   padding-left: 120px;
   padding-right: 120px;
+  margin-top: 140px;
   color: white;
-  margin-top: 60px;
 }
 #large {
   font-size: 60px;
