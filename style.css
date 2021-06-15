@@ -5,7 +5,8 @@ body {
 }
 #navbar ul, li {
   list-style-type: none;
-  display: inline
+  display: inline;
+  padding: 20px;
 }
 #navbar {
   box-shadow: 10px 10px 10px #dcdcdc30;
