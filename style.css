@@ -31,12 +31,11 @@ body {
 #right-area {
   margin-left: 500px;
 }
-#talk-to-our-sales {
+#talk-to-our-sales a{
+  text-decoration: none;
+  color: purple;
   border: 2px solid;
   padding: 20px;
   border-color: purple;
   border-radius: 10px;
 }
-#talk-to-our-sales a{
-  text-decoration: none;
-  color: purple;
