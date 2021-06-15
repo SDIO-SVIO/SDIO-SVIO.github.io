@@ -19,6 +19,7 @@ body {
   background-color: white;
   item-align: center;
   overflow: hidden;
+  position: fixed;
 }
 #navbar #main-nav a {
   text-decoration: none;
