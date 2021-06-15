@@ -17,6 +17,7 @@ body {
   padding: 30px;
   font-weight: 700;
   background-color: white;
+  item-align: center;
 }
 #navbar #main-nav a {
   text-decoration: none;
