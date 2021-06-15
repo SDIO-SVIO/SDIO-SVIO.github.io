@@ -27,3 +27,6 @@ body {
   border-bottom: 2px solid;
   border-bottom-color: #009fe6;
 }
+#right-area {
+  margin-left: 500px;
+}
