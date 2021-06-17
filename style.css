@@ -62,3 +62,15 @@ main {
 #text-explainer {
   font-size: 30px;
 }
+#demo-button a{
+  text-decoration: none;
+  color: purple;
+  border: 2px solid;
+  padding: 20px;
+  border-color: purple;
+  border-radius: 10px;
+}
+#demo-button a:hover{
+  background-color: purple;
+  color: white;
+}
