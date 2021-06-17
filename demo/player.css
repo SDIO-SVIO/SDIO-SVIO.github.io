@@ -30,5 +30,6 @@ input[type="image"]
 }
 #vol_img
 {
- margin-left:170px;
+ margin-left:120px;
+ height:25px;
 }
