@@ -5,12 +5,16 @@
  padding:0px;
  width:995px;
 }
+input {
+ height: 25px;
+}
 #player
 {
  background-color:#c3def7;
  width:400px;
  margin-left:300px;
  padding:5px;
+ item-align: center;
  box-sizing:border-box;
  border: 1.50px solid;
  border-color: #8bc6f9;
@@ -19,7 +23,7 @@
 input[type="image"]
 {
  float:left;
- height:20px;
+ height:25px;
  margin-left:2px;
  margin-right:5px;
  margin-top:2px;
@@ -27,5 +31,4 @@ input[type="image"]
 #vol_img
 {
  margin-left:170px;
- width:20px;
 }
