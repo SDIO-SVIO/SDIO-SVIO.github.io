@@ -20,10 +20,12 @@
 {
  top:98%;
  position:absolute;
- background-color:black;
+ background-color:#00f9e8;
  width:100%;
  padding:5px;
  box-sizing:border-box;
+ border: 1.50px solid;
+ border-color: #00e2ba;
 }
 input[type="image"]
 {
