@@ -12,6 +12,9 @@
  margin-left:300px;
  padding:5px;
  box-sizing:border-box;
+ border: 1.50px solid;
+ border-color: #8bc6f9;
+ border-radius: 25px;
 }
 input[type="image"]
 {
