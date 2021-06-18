@@ -20,12 +20,13 @@
 {
  top:98%;
  position:absolute;
- background-color:#00f9e8;
+ background-color:#7be0d9;
  width:100%;
  padding:5px;
  box-sizing:border-box;
  border: 1.50px solid;
  border-color: #00e2ba;
+ border-radius: 0, 0, 25px, 25px;
 }
 input[type="image"]
 {
