@@ -16,7 +16,7 @@ body {
   padding: 30px;
   font-weight: 700;
   background-color: white;
-  item-align: center;
+  align-items: center;
   overflow: hidden;
   position: fixed;
   width: 100%;
