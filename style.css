@@ -13,16 +13,13 @@ body {
 }
 #navbar {
   box-shadow: 10px 10px 10px #dcdcdc63;
-  border-radius: 50px;
-  margin-top: 20px;
-  margin-left: 60px;
-  margin-right: 60px;
   padding: 30px;
   font-weight: 700;
   background-color: white;
   item-align: center;
   overflow: hidden;
   position: fixed;
+  width: 100%;
   top: 0;
 }
 #navbar #main-nav a {
