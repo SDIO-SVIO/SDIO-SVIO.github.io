@@ -1,9 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
 a {
   color: white;
 }
 body {
   margin: 0px;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Lato', sans-serif;
   background-image: linear-gradient(to bottom right, #120065, blue);
 }
 #navbar ul, li {
@@ -53,11 +54,11 @@ main {
   padding-top: 78px;
   color: white;
 }
-.home.top-container {
+.home.top-content {
   background: rgb(8, 8, 140);
   padding: 40px;
 }
-.home.top-container #large {
+.home.top-content #large {
   color: rgb(0, 234, 228);
 }
 #large {
