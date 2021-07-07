@@ -3,8 +3,9 @@ a {
   color: black;
   border-bottom: 4px solid transparent;
   transition: 400ms;
+  text-decoration: none;
 }
-a {
+a:hover {
   transition: 400ms;
   border-bottom-color: cyan;
 }
