@@ -5,7 +5,6 @@ a {
 body {
   margin: 0px;
   font-family: 'Lato', sans-serif;
-  background-image: linear-gradient(to bottom right, #120065, blue);
 }
 #navbar ul, li {
   list-style-type: none;
