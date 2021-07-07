@@ -21,7 +21,6 @@ body {
 .dropdown {
   display: inline-block;
   position: relative;
-  padding-bottom: 30px;
 }
 .dropdown-content {
   display: none;
@@ -33,9 +32,9 @@ body {
   padding: 30px;
 }
 .dropdown-content a {
-  display: block;
+  display: inline-block;
 }
-.dropbtn:hover .dropdown-content {
+.dropdown:hover .dropdown-content {
   display: block;
 }
 #navbar {
