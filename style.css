@@ -65,6 +65,7 @@ main {
   background: rgb(8, 8, 140);
   padding: 40px;
   text-align: center;
+  color: white;
 }
 .home.top-content #large {
   color: rgb(0, 234, 228);
