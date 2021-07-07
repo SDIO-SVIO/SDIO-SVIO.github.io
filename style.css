@@ -52,6 +52,9 @@ body {
   display: inline;
   padding: 20px;
 }
+#navbar #main-nav {
+  padding: 25px;
+}
 #navbar #main-nav a:hover {
   transition: 400ms;
   color: #009fe6;
