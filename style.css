@@ -56,9 +56,11 @@ main {
 .home.top-content {
   background: rgb(8, 8, 140);
   padding: 40px;
+  text-align: center;
 }
 .home.top-content #large {
   color: rgb(0, 234, 228);
+  font-weight: 900;
 }
 #large {
   font-size: 60px;
