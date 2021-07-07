@@ -4,6 +4,8 @@ a {
   border-bottom: 4px solid transparent;
   transition: 400ms;
   text-decoration: none;
+  display: inline;
+  padding: 20px;
 }
 a:hover {
   transition: 400ms;
@@ -12,11 +14,6 @@ a:hover {
 body {
   margin: 0px;
   font-family: 'Lato', sans-serif;
-}
-#navbar ul, li {
-  list-style-type: none;
-  display: inline;
-  padding: 20px;
 }
 .dropdown {
   display: inline-block;
