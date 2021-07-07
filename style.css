@@ -25,15 +25,15 @@ body {
 #navbar #main-nav a {
   text-decoration: none;
   color: black;
+  border-bottom: 8px solid transparent;
   padding-bottom: 5px;
 }
 #navbar #main-nav a:hover {
   color: #009fe6;
-  border-bottom: 2px solid;
   border-bottom-color: #009fe6;
 }
 #right-area {
-  margin-left: 550px;
+  margin-left: 700px;
 }
 #talk-to-our-sales a{
   text-decoration: none;
@@ -42,10 +42,12 @@ body {
   padding: 20px;
   border-color: purple;
   border-radius: 10px;
+  transition: 400ms;
 }
 #talk-to-our-sales a:hover{
   background-color: purple;
   color: white;
+  transition: 400ms;
 }
 main {
   padding-left: 120px;
