@@ -35,7 +35,7 @@ body {
 .dropdown-content a {
   display: block;
 }
-.dropdown:hover .dropdown-content {
+.dropbtn:hover .dropdown-content {
   display: block;
 }
 #navbar {
