@@ -43,6 +43,9 @@ body {
   display: inline;
   padding: 0;
 }
+.dropdown-content a:hover {
+  border: 0 !important;
+}
 .dropdown:hover .dropdown-content {
   display: block;
 }
